@@ -17,4 +17,4 @@ cd FB-BOT
 
 python RMX.py
 
-![20200808_160757](https://raw.githubusercontent.com/RIDOY-404-CYBER/FB-BOT/main/InShot_20231226_130203668.jpg)
+![20200808_160757](https://raw.githubusercontent.com/RIDOY-404-CYBER/FB-BOT/main/InShot_20240203_200007129.jpg)
