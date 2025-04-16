@@ -4,4 +4,4 @@ rmx = platform.architecture()[0]
 if rmx=='64bit':
  import fbb
 elif rmx=='32bit':
- import Fbb32
+ import Fbb32.cpython-311.so
